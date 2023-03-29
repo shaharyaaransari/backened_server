@@ -1003,5 +1003,161 @@
       "Measure": "550gms",
       "Price": "₹335"
     }
+  ],
+  "Biryani":   [
+    {
+      "Title": "Chicken Seekh Kebab",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/30729bca-c97b-c518-1859-1c25d05718dc/original/uncooked_(11).jpg",
+      "price": "₹199",
+      "description": "Juicy & meaty Kebabs to spice up your everyday meals",
+      "quantity": "4 Pieces"
+    },
+    {
+      "Title": "Afghani Murgh Seekh Kebab",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/44f90ab6-ee35-f696-7713-354e52e6fae5/original/Afghani-Murgh-Seekh-Kebab-uncooked.jpg",
+      "price": "₹269",
+      "description": "Subtly spiced meaty kebabs for a fulfilling meal",
+      "quantity": "4 Pieces"
+    },
+    {
+      "Title": "Chicken Malai Tikka",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/6422e17b-9af5-e6c6-35b1-6ef4ae0692bc/original/Chicken-Malai-Tikka-Tag.jpg",
+      "price": "₹299",
+      "description": "Juicy, creamy and smoky delight to go with your meals",
+      "quantity": "350gms"
+    },
+    {
+      "Title": "Angara Murgh Tikka",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c4c8bf3b-bf4e-2606-d704-a0f3876c1dd2/original/Angara-Murgh-Tikka-Cooked-_(1).jpg",
+      "price": "₹269",
+      "description": "A tangy, spicy, meaty tikka to perk up meal times",
+      "quantity": "300gms"
+    },
+    {
+      "Title": "Chicken Tangdi Kebab",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/51a18a68-acc0-f766-e8a3-10529ac374ec/original/Chicken-Tangdi-Kebab-Tag.jpg",
+      "price": "₹269",
+      "description": "Spicy melt-in-the-mouth treat that can amp up any meal",
+      "quantity": "3 Pieces"
+    },
+    {
+      "Title": "Hariyali Murgh Tikka",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/e7144ec8-d3cf-73a3-6515-4720d3bcf449/original/Hariyali-Murgh-Tikka_Tag.jpg",
+      "price": "₹279",
+      "description": "Herby and juicy tikka that goes well with Indian breads",
+      "quantity": "300gms"
+    },
+    {
+      "Title": "Lucknowi Mutton Galouti Kebab",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9b0bd37a-34b4-a2b0-8da6-dca52017820d/original/pdp_Lucknowi_galouti_kebab.jpg",
+      "price": "₹399",
+      "description": "A melt-in-the-mouth treat to spice up your meals",
+      "quantity": "6 Pieces"
+    },
+    {
+      "Title": "Tandoori Chicken",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/285eeec4-89c1-93d5-0184-23d5dcb310c2/original/pdp_tandoori.jpg",
+      "price": "₹251",
+      "description": "Half-chicken smoked & marinated in a blend of spices",
+      "quantity": "350gms"
+    },
+    {
+      "Title": "Purani Dilli ki Mutton Seekh Kebab",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/803b20a6-f2fb-3335-553e-7a0e157da802/original/PDP_purani_dilli_ki_mutton_seekh.jpg",
+      "price": "₹375",
+      "description": "Make your everyday meals extra meaty, juicy & delicious",
+      "quantity": "4 Pieces"
+    },
+    {
+      "Title": "Chicken Kebab & Biryani Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/467fc795-de40-e455-e8b2-2270b039dd5c/original/combo.jpg",
+      "price": "₹398",
+      "description": "Murgh Seekh Kebab & Hyderabadi Chicken Biryani",
+      "quantity": "2 Pieces"
+    },
+    {
+      "Title": "Assorted Kebab Platter | Ready to Cook",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_15ckn5pzo5x/34/prod_display_image/1634616967.0156--2021-10-1909:46:07--1818",
+      "price": "₹939",
+      "description": "Tender & juicy- our platter of kebabs is perfect for parties!",
+      "quantity": "4 Pieces"
+    },
+    {
+      "Title": "Hyderabadi Chicken Biryani (Mini) | Meat & Masala Mix",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/de049207-fec7-e24a-044f-e9770f933456/original/biriryani_tile_Hyderabadi_Chicken_Biryani_(Mini)_(1).jpg",
+      "price": "₹199",
+      "description": "Aromatic, spicy, rich and meaty",
+      "quantity": "500gms"
+    },
+    {
+      "Title": "Kolkata Chicken Biryani | Meat & Masala Mix",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9429b664-5c8e-841c-a644-62b61c6e71fa/original/biriryani_tile_Kolkata_Chicken_Biryani.jpg",
+      "price": "₹399",
+      "description": "Fragrant, meaty, subtly spiced & meaty.",
+      "quantity": "250gms"
+    },
+    {
+      "Title": "Awadhi Mutton Biryani | Meat & Masala Mix",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c7ab106b-1a0d-7ff2-a6e8-4c8e03ea1f4c/original/biriryani_tile_Awadhi_Mutton_Biryani.jpg",
+      "price": "₹649",
+      "description": "Aromatic, spicy, rich and meaty",
+      "quantity": "4 Pieces"
+    },
+    {
+      "Title": "Awadhi Mutton Biryani (Mini) | Meat & Masala Mix",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/1b79700e-e7e2-ac37-b751-12d21323b4fe/original/biriryani_tile_Awadhi_Mutton_Biryani_(Mini).jpg",
+      "price": "₹349",
+      "description": "Aromatic, spicy, rich and meaty",
+      "quantity": "4 Pieces"
+    },
+    {
+      "Title": "Mutton Biryani & Tikka Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/8f48fba5-6c40-9f3a-b0dd-a2f7d4157a16/original/motton.jpg",
+      "price": "₹448",
+      "description": "Mutton Biryani & Tikka Combo",
+      "quantity": "2 Pieces"
+    },
+    {
+      "Title": "Tangdi Chicken & Biryani Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/38ff9cae-d85a-23f2-c385-81725d125f45/original/Tangdi.jpg",
+      "price": "₹458",
+      "description": "Kolkata Chicken Biryani & Chicken Tangdi Kebab",
+      "quantity": "2 Pieces"
+    },
+    {
+      "Title": "Hariyali Murgh & Biryani Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/07ab67b9-73af-1c8b-e0df-0c8919393c61/original/Hariyali.jpg",
+      "price": "₹467",
+      "description": "Awadhi Chicken Biryani and Hariyali Murgh Tikka",
+      "quantity": null
+    },
+    {
+      "Title": "Hyderabadi Chicken Biryani | Meat & Masala Mix",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/0a670630-c2fe-bb8a-caae-fa5adef6658d/original/biriryani_tile_Hyderabadi_Chicken_Biryani.jpg",
+      "price": "₹399",
+      "description": "Aromatic, spicy, rich and meaty",
+      "quantity": null
+    },
+    {
+      "Title": "Awadhi Chicken Biryani | Meat & Masala Mix",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/5cf2d16d-e43e-a3b7-9d7f-203c90154dc6/original/biriryani_tile_Awadhi_Chicken_Biryani.jpg",
+      "price": "₹419",
+      "description": "Fragrant, delicately flavourful & meaty",
+      "quantity": null
+    },
+    {
+      "Title": "Kolkata Chicken Biryani (Mini) | Meat & Masala Mix",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/642d0a2c-bfec-f8d8-11e8-57a76be31802/original/biriryani_tile_Kolkata_Chicken_Biryani_(Mini).jpg",
+      "price": "₹229",
+      "description": "Fragrant, meaty, subtly spiced & meaty.",
+      "quantity": null
+    },
+    {
+      "Title": "Awadhi Chicken Biryani (Mini) | Meat & Masala Mix",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/44da53d6-ef9c-7323-8046-ac1ae5acd856/original/biriryani_tile_Awadhi_Chicken_Biryani_(Mini)_(1).jpg",
+      "price": "₹229",
+      "description": "Fragrant, delicately flavourful & meaty",
+      "quantity": null
+    }
   ]
 }
