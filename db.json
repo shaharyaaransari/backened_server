@@ -1,9 +1,298 @@
 {
-  "user":[
+  "chickenMeat":  [
     {
-      "id":1,
-      "name":"manoj"
+      "Title": "Chicken Curry Cut - Small Pieces",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ac53a507-4bdd-92cd-ee0b-c96281e04999/original/chicken-curry-cut.jpg",
+      "description": "Small pieces of bone-in & boneless chicken for curries",
+      "price": "₹159",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Curry Cut - Large Pieces (Large Pack)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7c01addb-3cff-9c0a-fa68-d4d6d41de5f5/original/large.jpg",
+      "description": "Cut & cleaned bone-in & boneless chicken",
+      "price": "₹302",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Curry Cut - Large Pieces",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ca5adea0-fcd4-9787-416a-7b95b3a670b4/original/ChickenLC.jpg",
+      "description": "Cleaned, large bone-in & boneless curry cut pieces",
+      "price": "₹159",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Curry Cut - Small Pieces (Large Pack)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4cad2ee9-9257-9109-62a1-da4082b2cf36/original/sho.jpg",
+      "description": "The ideal pack for a big, delicious curry feast",
+      "price": "₹302",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Boneless - Mini Bites",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/be46f1fa-1aa8-81ea-7a47-11260815a274/original/Chicken_MiniBites_Boneless_Hero_Shot.jpg",
+      "description": "20-30 bite-sized boneless pieces of chicken",
+      "price": "₹169",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Liver",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a10fc624-df33-07d9-c1e2-be515a700136/original/Chicken_Liver_Hero_Shot.jpg",
+      "description": "7-9 pieces of fresh, cleaned chicken liver",
+      "price": "₹89",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Leg Curry Cut - Large Pieces",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/cbede953-c94c-3c48-a9a2-bad815fa1c3a/original/ChickenLegCurryCutpiecesHeroShot.jpg",
+      "description": "4-6 Large bone-in pieces cut from the leg",
+      "price": "₹239",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Breast - Boneless",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/fcea4075-0ed2-23c1-2b3f-1cddcbd1d11f/original/Chicken-Breast-Boneless-(3-4-Pieces)-Hero-Shot_(1).jpg",
+      "description": "Skinless & boneless pieces of chicken breast.",
+      "price": "₹265",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Tenders Boneless",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/cbc041b1-8509-d9de-a7e2-653282a3c147/original/Chicken-Tenders-(Boneless)-Hero-Shot.jpg",
+      "description": "9-15 pieces of boneless chicken cut from the tenderloin",
+      "price": "₹220",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Mince (Keema)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3e9023d4-e2f7-2fe6-c68f-75014733ff7e/original/Chicken_Mince_Large_Pack_Hero_Shot.jpg",
+      "description": "Tender, perfectly ground meat from our Nakhrebaaz team!",
+      "price": "₹299",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Breast Boneless (Large Pack)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7cb0a040-aaea-f6ed-55a3-7960e4243f54/original/breat.jpg",
+      "description": "Tender, boneless fillets of chicken cut from the breast",
+      "price": "₹455",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Curry Cut (Large - 8 to 10 Pieces) + Chicken Liver",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/51c8aaec-d0ca-2c43-433c-0096554c2ffb/original/Combo_PDPs(Chicken_+_Mutton)-03.jpg",
+      "description": "Juicy, tender chicken for meaty meals",
+      "price": "₹233",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Curry Cut (Small - 13 to 16 Pieces) + Chicken Liver",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/bf996fda-bab8-350e-5ba2-67925dd6e8a6/original/CCC_Small_Pcs_+_Liver.jpg",
+      "description": "Tender, juicy, assorted chicken combo",
+      "price": "₹233",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Boneless Cubes",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7b633c75-c203-6c03-5234-9fd75467133a/original/Chicken-Boneless---Tikka-Cut--Hero-Shot_(1).jpg",
+      "description": "Skinless & boneless Cut & cleaned",
+      "price": "₹329",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Drumstick - Pack Of 6",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/d667aa91-ba62-2117-a672-034b58bbac39/original/Chicken-Drumstick---Hero-Shot.jpg",
+      "description": "Juicy, meaty pieces by a dedicated team of Nakhrebaaz",
+      "price": "₹234",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Thigh Boneless",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ffd4144f-25a7-6f26-2d90-9a9db0332dda/original/Chicken_Thigh_Boneless_Hero_Shot.jpg",
+      "description": "6-8 cleaned, boneless & skinless pieces",
+      "price": "₹349",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Lollipop - Pack of 10",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/eb0de06a-d96a-c786-1de9-1bd9cadbb89b/original/ChickenLollipopPiecesHeroShot.jpg",
+      "description": "10 pieces of meaty chicken lollipop",
+      "price": "₹219",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Dinner Special Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2a76c947-a866-3d2c-9f31-df94434f391f/original/Dinner_Special_Combo.jpg",
+      "description": "Chicken Thigh Boneless & Chicken Curry Cut for dinner!",
+      "price": "₹470",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Curry & Keema Family Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a1ee5090-73fd-7e81-7318-450b541e1576/original/CCC_Small_+_Mince_Mini.jpg",
+      "description": "Chicken Curry Cut (Small) + Chicken Mince (250g)",
+      "price": "₹320",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Curry & Keema Special",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/19919f0f-d88b-71d6-e848-c2aff4cccc67/original/CCC_Large_+_Mince_Mini.jpg",
+      "description": "Chicken Curry Cut (Large) + Chicken Mince (250g)",
+      "price": "₹320",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Curry Delight",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/428f3490-1846-b499-fe45-02e5d354cbba/original/CCC_Small_+_Drumstick_PO2.jpg",
+      "description": "Chicken Curry Cut (Small) + 2 Drumsticks",
+      "price": "₹268",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Curry Bonanza",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/5d72d55b-07a1-1ddc-8045-a5160e4c225d/original/CCC_Large_+_Drumstick_PO2.jpg",
+      "description": "Chicken Curry Cut (Large) + 2 Drumsticks",
+      "price": "₹268",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Grilled Chicken Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b13d8e88-40d7-177a-4ed6-c07b7bfc3175/original/Thigh_Boneless_+_Drumstick_PO2.jpg",
+      "description": "Chicken Thigh (Boneless) + 2 Drumsticks",
+      "price": "₹412",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Kids Special Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b5401f96-c3f0-6c4a-48d9-3e28b57579b4/original/Kids_Special_Combo.jpg",
+      "description": "Easy-to-eat Chicken Lollipop & Chicken Mini Bites.",
+      "price": "₹368",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Best of Chicken Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a4ed954a-bb42-8d9f-50e6-b03ce91d4190/original/Best_of_Chicken_Combo.jpg",
+      "description": "Chicken Thigh Boneless + Chicken Lollipop",
+      "price": "₹500",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Party Starters Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/551437a2-20a5-05cb-ac2d-6743588d611f/original/Party_Starters_Combo.jpg",
+      "description": "Party favourites: Chicken Mini Bites & Chicken Tenders",
+      "price": "₹403",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Kebab Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ff17803e-c981-779c-0f2c-d356452ae4eb/original/Kebab_Combo.jpg",
+      "description": "Comprises Chicken Mini Bites & Chicken Mince.",
+      "price": "₹438",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Easy Cooking Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ae242446-29ea-c240-7461-de87ee22b99d/original/Easy_Cooking_Combo(1).jpg",
+      "description": "Chicken Tender & Chicken Mince feature in this combo.",
+      "price": "₹491",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Mince/Keema - 250 gms (Mini Pack)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4b4306ae-32da-2543-5a7d-77647cce1de5/original/Chicken_Mince_Large_Pack_Hero_Shot.jpg",
+      "description": "Tender, perfectly ground meat from our Nakhrebaa team!",
+      "price": "₹159",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Tender Spring Chicken Curry Cut",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/97e6aefc-4ebd-eeec-a668-390c0b5f0645/original/Tender-Spring-Chicken-Curry-Cut-Hero-Shot.jpg",
+      "description": "14-16 pieces cut from a whole spring chicken.",
+      "price": "₹349",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Thigh With Bone",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/bbf4cb99-d69a-5b67-5be6-e5ef5cfe6291/original/Chicken_Thigh_Skinless_Hero_Shot.jpg",
+      "description": "5-7 pieces of bone-in chicken thigh",
+      "price": "₹339",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Drumsticks - Pack of 2 (Mini Pack)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/79841b97-058e-7289-2e3a-42c33c063a83/original/Drumstick_PO2.jpg",
+      "description": "Juicy, meaty pieces by a dedicated team of Nakhrebaaz",
+      "price": "₹119",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Country Chicken / Deshi Murgi Curry Cut",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/d08aff2f-47a1-aaa7-3487-2a0a0d67b5df/original/Country_Chicken_Curry_Cut_Hero_Shot.jpg",
+      "description": "Lean Country Chicken Curry Cut with a gamey flavour.",
+      "price": "₹369",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Gizzard",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f96ea26d-32d7-4038-c482-e23627d5b93f/original/Chicken_Gizzard_Hero_Shotjpg.jpg",
+      "description": "12-14 pieces of Chicken Gizzard",
+      "price": "₹89",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Tandoori Delights Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/13f6a266-ee5f-d421-ed0b-b0a0c63eb961/original/Tandoori_Delights_Combo.jpg",
+      "description": "Get Chicken Leg With Thigh & Chicken Thigh Boneless",
+      "price": "₹620",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Healthy Meal Combo",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/adf43b26-8d48-d4af-9e94-eeb0d449a20a/original/Healthy_Meal_Combo.jpg",
+      "description": "Featuring Chicken Breast Boneless & Chicken Soup Bones.",
+      "price": "₹299",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Classic Chicken Soup Bones",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/fba12c61-3179-c768-8cc1-1219501bcef4/original/Chicken-Soup-Bones---(Classic).jpg",
+      "description": "11-12 pieces of cleaned bones for chicken stock",
+      "price": "₹75",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Chicken Leg With Thigh - Pack of 3",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4ed554d0-383b-219a-b3a4-be7670767b54/original/ChickenLegWholeWithThighHeroShot.jpg",
+      "description": "<p>Skinless and bone-in chicken thigh and drumstick with a rich flavour and succulent bite</p>",
+      "price": "₹355",
+      "Arrival": "Tomorrow 8 AM - 11 AM"
+    },
+    {
+      "Title": "Classic Chicken Masala",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/90ba85ab-75e9-d199-1080-cb7a5bf02377/original/masala_tile-36.jpg",
+      "description": "Your go-to masala for an everyday chicken curry meal.",
+      "price": "₹55",
+      "Arrival": "All slots full"
+    },
+    {
+      "Title": "Original Tandoori Chicken Masala",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ef140c73-6478-ed14-85b6-1ea194d954e3/original/masala_tile-37.jpg",
+      "description": "Perfect for Tandoori Chicken & Chicken Tikka!",
+      "price": "₹55",
+      "Arrival": "All slots full"
+    },
+    {
+      "Title": "Chicken Curry Cut with Skin - Small Pieces",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b4cdb267-63e8-5df5-bb33-37ce8cbdddd8/original/ChickenCurryCutwithSkinSmall_(2).jpg",
+      "description": "12-14, small curry cut pieces of skin-on chicken",
+      "price": "₹149",
+      "Arrival": "Out of Stock"
+    },
+    {
+      "Title": "Chicken Whole With Skin",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/6cb4151c-eff7-4b03-bd8a-c1c1e4ec92b0/original/Chicken_Whole_with_Skin_Hero_Shot.jpg",
+      "description": "Thoroughly cleaned, full skin, whole chicken, uncut for full flavour and complete indulgence.",
+      "price": "₹359",
+      "Arrival": "Out of Stock"
     }
-  ],
-  "cart":[]
+  ]
 }
