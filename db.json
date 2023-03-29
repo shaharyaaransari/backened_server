@@ -294,5 +294,714 @@
       "price": "₹359",
       "Arrival": "Out of Stock"
     }
+  ],
+  "Fish": [
+    {
+      "Title": "Basa - Boneless Cubes",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/233fa0d5-e6d8-fb39-85b5-959871c2f2c6/original/p0_tile_images-07_(1).jpg",
+      "description": "Pangus, Vaalla Meen",
+      "Measure": "400gms",
+      "Price": "₹386"
+    },
+    {
+      "Title": "Freshwater/ White Prawns/ Chingri (Medium) - Cleaned & Deveined",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/fca8f23b-eab1-25c6-1b1d-e7d0a1bff2df/original/WhatsApp_Image_2022-04-13_at_2.16.31_PM.jpeg",
+      "description": "Freshwater prawns. De-shelled, cleaned, deveined, butterflied prawns, with head and tail removed.",
+      "Measure": "250gms",
+      "Price": "₹415"
+    },
+    {
+      "Title": "Rohu (Rui) Small - Bengali Cut, No Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c6f75316-efb6-4f23-e7fa-851e3e3d00ea/original/p2_tile_images_6th_folder-10_(2).jpg",
+      "description": "Seelavathi, Kannadi Kendai",
+      "Measure": "500gms",
+      "Price": "₹230"
+    },
+    {
+      "Title": "Catla (Katla) Medium - Bengali Cut, No Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/1ea5ff1f-52f3-c7aa-953a-a4d287e40247/original/p0_tile_images-15_(2).jpg",
+      "description": "Katala, Botchee, Theppu, Kendai",
+      "Measure": "500gms",
+      "Price": "₹369"
+    },
+    {
+      "Title": "Basa - Finger Cut",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ee00a8e2-2658-c4c6-a312-2967da9da718/original/p0_tile_images-05.jpg",
+      "description": "Pangus, Vaalla Meen",
+      "Measure": "250gms",
+      "Price": "₹215"
+    },
+    {
+      "Title": "Rohu (Rui) Large - Bengali Cut, No Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3c67f22b-274d-d54f-800e-5c3fdb168dc4/original/p2_tile_images_6th_folder-08.jpg",
+      "description": "Seelavathi, Kannadi Kendai",
+      "Measure": "500gm",
+      "Price": "₹305"
+    },
+    {
+      "Title": "Platinum Grade Basa - Fillet",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/5e4fa5da-bdb0-4616-a58c-111f9ee60c84/original/p0_tile_images-10.jpg",
+      "description": "Pangus, Vaalla Meen",
+      "Measure": "450gms",
+      "Price": "₹421"
+    },
+    {
+      "Title": "Basa - Fry Cut",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_kkxktwxejd0/34/prod_display_image/1633853715.0982--2021-10-1013:45:15--1818",
+      "description": "Pangus, Vaalla Meen",
+      "Measure": "250gms",
+      "Price": "₹269"
+    },
+    {
+      "Title": "Rohu (Rui) - Whole, Cut into Pieces",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/665dc708-c9e4-70b7-507d-16c085a4fce7/original/p2_tile_images_5th_folder-43_(1).jpg",
+      "description": "Seelavathi, Kannadi Kendai",
+      "Measure": "1 Pieces",
+      "Price": "₹415"
+    },
+    {
+      "Title": "Sea Bass (Barramundi/Bhetki/Mudavu) Medium - Boneless Cubes",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_inpkaxvya2u/1/prod_display_image/1636890998.1006--2021-11-1417:26:38--905",
+      "description": "Also called Barramundi, Bhetki, Kalanji, Jitada",
+      "Measure": "300gms",
+      "Price": "₹679"
+    },
+    {
+      "Title": "Catla (Katla) Large - Bengali Cut, No Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/5d1de9da-d5d2-e3ab-56b1-db920d1350a2/original/p2_tile_images_6th_folder-03.jpg",
+      "description": "Katala, Botchee, Theppu, Kendai",
+      "Measure": "500gm",
+      "Price": "₹479"
+    },
+    {
+      "Title": "Tilapia (Telapia) Medium - Bengali Cut, No Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f2e2a0e1-1bf4-8157-f8c8-5da80a2be0ad/original/p2_tile_images_7th_folder-08.jpg",
+      "description": "Mild-tasting, white-fleshed, low in fat Tilapia cut Bengali style (without head) ideal for weight watchers.",
+      "Measure": "500gms",
+      "Price": "₹246"
+    },
+    {
+      "Title": "Aar - Bengali Cut No Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/613be520-2ea4-91de-3922-7c84edacf6fe/original/p2_tile_images-02.jpg",
+      "description": "Bengali cut freshwater delicacy with a unique flavour and meaty bite cleaned and prepped.",
+      "Measure": "500gms",
+      "Price": "₹664"
+    },
+    {
+      "Title": "Freshwater/White Prawns (Chingri) Small - Cleaned & Deveined",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_gi9kauyla8l/2/prod_display_image/1591551521.9987--2020-06-0723:08:41--738",
+      "description": "Kolambi, Royyala, Jhinga, Naaran, Seegadi, Eraal",
+      "Measure": "250gms",
+      "Price": "₹335"
+    },
+    {
+      "Title": "Catla (Katla) - Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/dd4faacd-e311-7f20-e82a-3385f116c9c8/original/p1_tile_images-01.jpg",
+      "description": "Katala, Botchee, Theppu, Kendai",
+      "Measure": "1 Pieces",
+      "Price": "₹75"
+    },
+    {
+      "Title": "Rohu (Rui) Medium - Bengali Cut, With Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/6acc76fb-87b2-717a-06ad-c79464109d42/original/image_(2).png",
+      "description": "Seelavathi, Kannadi Kendai",
+      "Measure": "1000gms",
+      "Price": "₹351"
+    },
+    {
+      "Title": "Catla (Katla) Medium - Bengali Cut, With Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/1b4b1e6e-39cb-16ce-76f0-0dc3cee104e1/original/Catla-M-Tag.jpg",
+      "description": "Katala, Botchee, Theppu, Kendai",
+      "Measure": "1000gms",
+      "Price": "₹527"
+    },
+    {
+      "Title": "Rohu (Rui) - Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f73b18d6-ffd9-7dfd-86a9-979621b11677/original/p1_tile_images-17.jpg",
+      "description": "Seelavathi, Kannadi Kendai",
+      "Measure": "1 Pieces",
+      "Price": "₹75"
+    },
+    {
+      "Title": "Tilapia (Jalebi) Small - Fillet",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/b934c222-75c7-4046-d914-914ca668b37d/original/1596201422.7072--2020-07-3118_47_02--738.jpeg",
+      "description": "Also called Jilapi, Jilaebi, Philopy, Filopi, Chilapi",
+      "Measure": "250gms",
+      "Price": "₹179"
+    },
+    {
+      "Title": "Tilapia (Jalebi) Small - Whole Cleaned & Gutted",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9222b2fc-f499-939f-7172-78706e69deb9/original/Tilapia.jpg",
+      "description": "2 to 5 pieces of whole, mildly sweet freshwater fish",
+      "Measure": "500gms",
+      "Price": "₹119"
+    },
+    {
+      "Title": "Rohu (Rui) Medium - Bengali Cut, No Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/feedc98d-42e1-0e0a-7da0-0072fa84977c/original/p2_tile_images_6th_folder-09_(1).jpg",
+      "description": "Seelavathi, Kannadi Kendai",
+      "Measure": "500gms",
+      "Price": "₹251"
+    },
+    {
+      "Title": "Freshwater/ White Prawns/ Jhinga (Medium) - Cleaned & Deveined (TRIAL PACK, 10 Pcs)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/e0d5f60e-5a82-1b57-d43d-9f75877a3bac/original/unnamed.jpg",
+      "description": "Fresh nakhre for fresh & juicy freshwater prawns",
+      "Measure": "10 Pieces",
+      "Price": "₹189"
+    },
+    {
+      "Title": "Freshwater/White Prawns (Chingri) Medium - Cleaned & Deveined (Large Pack)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f9a64569-86b4-62f2-f02c-7418feccda82/original/Freshwater-Prawns-medium2.jpeg",
+      "description": "Kolambi, Royyala, Jhinga, Naaran, Seegadi, Eraal",
+      "Measure": "500gms",
+      "Price": "₹663"
+    },
+    {
+      "Title": "Tilapia (Jelabi) Medium - Fillet",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3e41fb86-77ff-21d4-1b08-aff0d52e830b/original/p0_tile_images-35.jpg",
+      "description": "Nakhre that make fish fly - cut, cleaned for your pan",
+      "Measure": "250gms",
+      "Price": "₹199"
+    },
+    {
+      "Title": "Sea Bass (Bhetki) Medium - Curry Cut",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/27e80a34-cd08-aa48-807b-9257e492e178/original/p1_tile_images-19.jpg",
+      "description": "Curry cut of Sea Bass that is delicately textured with a subtle rich taste.",
+      "Measure": "350gms",
+      "Price": "₹509"
+    },
+    {
+      "Title": "Roopchand (Chanduva) - Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ff1b9a28-7414-3cc0-dbd0-5a52b64e5d5e/original/p1_tile_images-36.jpg",
+      "description": "Also called Rupchanda, Paaku, Chanduva",
+      "Measure": "500gms",
+      "Price": "₹199"
+    },
+    {
+      "Title": "White Pomfret (Chandi) - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/926c818b-7add-d0f4-9290-50ebbb690d8e/original/p2_tile_images_6th_folder-13_(1).jpg",
+      "description": "Paplet, Sadumi, White Paplet, Vella Avolli, Billi Maanji, Vavval",
+      "Measure": "450gms",
+      "Price": "₹719"
+    },
+    {
+      "Title": "Catla (Katla) Large - Bengali Cut, With Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/fd893adc-4c64-ec28-3507-5f70d7d785f3/original/Catla-L-tag.jpg",
+      "description": "Katala, Botchee, Theppu, Kendai",
+      "Measure": "1000gms",
+      "Price": "₹759"
+    },
+    {
+      "Title": "Hilsa (Ilish) Medium - Curry Cut With Head",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_avakgkv3mxo/34/prod_display_image/1634365724.2535--2021-10-1611:58:44--905",
+      "description": "Cleaned, Scaled, Curry Cuts, with Head",
+      "Measure": "500gms",
+      "Price": "₹2319"
+    },
+    {
+      "Title": "Kajoli - Whole & Cleaned, No Tail",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/71fa9b7a-81fb-2acb-06b7-0d68dcf0f3a5/original/p1_tile_images-09.jpg",
+      "description": "Also known as Kajali",
+      "Measure": "250gms",
+      "Price": "₹549"
+    },
+    {
+      "Title": "Parshe - Whole & Cleaned, No Tail",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/95b3304e-5355-be9b-63b7-6cdfd51eae15/original/p2_tile_images_6th_folder-05_(1).jpg",
+      "description": "Also called Paarshe",
+      "Measure": "500gms",
+      "Price": "₹549"
+    },
+    {
+      "Title": "Butterfish (Pabda) Small - Whole Cleaned & Gutted With Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f4db36c0-6d95-12a8-0152-2f566e0ac2b1/original/p2_tile_images_6th_folder-03_(2).jpg",
+      "description": "Cleaned gutted, whole, silvery-white skinned, fleshy, bony freshwater catfish.",
+      "Measure": "350gms",
+      "Price": "₹429"
+    },
+    {
+      "Title": "Tiger Prawns/ Chingri (Extra Large) - Cleaned & Deviened, With Tail",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/192f5f53-c386-b603-53fd-e52ce07773e0/original/1624645711.jpg",
+      "description": "Large and flavoursome prawns, peeled & deveined",
+      "Measure": "250gms",
+      "Price": "₹629"
+    },
+    {
+      "Title": "Freshwater Scampi/ Giant Prawn/ Chingri (Whole)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/fca1d46d-e7de-ddb9-51f1-aabf6dcef08d/original/p2_tile_images_6th_folder-03_(1).jpg",
+      "description": "Whole, soft-shelled scampi with a fleshy, pale-coloured, subtly sweet tasting, firm, tail meat.",
+      "Measure": "500gm",
+      "Price": "₹499"
+    },
+    {
+      "Title": "Tengra - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/83919c8e-a827-e8ca-3c95-f682ac46691b/original/p2_tile_images_7th_folder-02.jpg",
+      "description": "5-9 pieces, whole, cleaned and gutted",
+      "Measure": "250gms",
+      "Price": "₹389"
+    },
+    {
+      "Title": "Yellowfin Tuna (Kera) Medium - Cubes",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f6e3b784-e68c-2ef0-b6d7-2483255721b8/original/p2_tile_images_7th_folder-41.jpg",
+      "description": "Also called Choora, Toora Chepa, Soora, Gedare, Kupa",
+      "Measure": "300gms",
+      "Price": "₹699"
+    },
+    {
+      "Title": "Tiger Prawns/ Seegadi (Large) - Cleaned & Deveined, With Tail",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/85d6826b-6f2e-259c-358d-86844cf5aad5/original/1626790290.jpg",
+      "description": "Flavourful Tiger Prawns, cleaned and ready for the pan",
+      "Measure": "250gms",
+      "Price": "₹599"
+    },
+    {
+      "Title": "Seabass (Barramundi/Bhetki/Mudavu) - Boneless Fry Cut",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3c7fbd2f-61eb-8812-25a0-43125a5b24d0/original/p2_tile_images_3rd_folder-23.jpg",
+      "description": "Also called Barramundi, Bhetki, Kalanji, Jitada",
+      "Measure": "300gms",
+      "Price": "₹825"
+    },
+    {
+      "Title": "Bata Small - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/12b681fd-e113-7d6e-343f-0e35a4626e7b/original/p2_tile_images-22_(1).jpg",
+      "description": "Whole, cleaned, gutted, this Eastern favourite is now just a click away!",
+      "Measure": "250gms",
+      "Price": "₹319"
+    },
+    {
+      "Title": "White Sardine/Silver Fish (Veloori) - Whole Uncleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/09b15ab9-043f-4063-2642-49bd4103ff1a/original/p1_tile_images-31.jpg",
+      "description": "Small, slender in size, the White Sardine has a firm and flaky texture and is perfect for making small fish fry.",
+      "Measure": "250gms",
+      "Price": "₹199"
+    },
+    {
+      "Title": "Bombay Duck (Bombil) Medium - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/87e3775e-b226-4058-b792-d9204ef60fe5/original/ppp.jpg",
+      "description": "Light grey, firm textured, cleaned and gutted whole Bombay Duck.",
+      "Measure": "200gms",
+      "Price": "₹152"
+    },
+    {
+      "Title": "Seabass (Barramundi/Bhetki/Mudavu ) - Boneless Finger Fry",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/02e7cfb3-d484-c62e-6116-d5f2dc0fd0be/original/p2_tile_images_3rd_folder-20.jpg",
+      "description": "Also called Barramundi, Bhetki, Kalanji, Jitada",
+      "Measure": "200gms",
+      "Price": "₹549"
+    },
+    {
+      "Title": "Seer (Ser Mach) Large - Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/afdd1663-a680-873f-9114-c38eeaeab5cd/original/p0_tile_images-32_(1).jpg",
+      "description": "Anjal, Vanjaram, Surmai, Neyi Meen, Ayikura",
+      "Measure": "500gms",
+      "Price": "₹1309"
+    },
+    {
+      "Title": "Magur - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f4592130-e3c8-502a-bdbb-76016adba767/original/p2_tile_images_3rd_folder-38.jpg",
+      "description": "3-4 pieces of Freshwater Magur that is served whole.",
+      "Measure": "450gms",
+      "Price": "₹589"
+    },
+    {
+      "Title": "Indian Salmon (Rawas) Large - Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/6577f404-e144-9838-985b-658be85d0f3f/original/p2_tile_images_2nd_folder-34.jpg",
+      "description": "Also called Raavas, Maga, Kala, Gurjali, Kora",
+      "Measure": "500gm",
+      "Price": "₹1019"
+    },
+    {
+      "Title": "Topse - Whole & Cleaned, No Tail",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9e2c1bfd-f86c-cbd9-681a-c931b668d75f/original/p2_tile_images_7th_folder-11.jpg",
+      "description": "Also known as Topshe",
+      "Measure": "250gms",
+      "Price": "₹399"
+    },
+    {
+      "Title": "Mahi Mahi (Dorado/Parla) Large - Boneless Cubes",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f993979e-5276-9962-7310-332d69476ea0/original/p2_tile_images_6th_folder-01_(1).jpg",
+      "description": "Pink fleshed, flaky-textured, firm, skinned & boned cubes of mild tasting saltwater Mahi Mahi.",
+      "Measure": "300gms",
+      "Price": "₹289"
+    },
+    {
+      "Title": "Foli - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/fd624501-c6a1-c156-e567-914569fbe14d/original/fouli-1.jpg",
+      "description": "3-4 pieces of whole & clean foli or bronze featherback",
+      "Measure": "450gms",
+      "Price": "₹259"
+    },
+    {
+      "Title": "White Pomfret (Chandi) - Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/eb5ff37e-b0d1-d565-6bdb-07dac25012f2/original/p2_tile_images_7th_folder-35.jpg",
+      "description": "Paplet, Sadumi, White Paplet, Vella Avolli, Billi Maanji, Vavval",
+      "Measure": "350gms",
+      "Price": "₹989"
+    },
+    {
+      "Title": "Singhi - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/26da8a83-7827-64fb-8555-f033d51f4756/original/p2_tile_images_6th_folder-30.jpg",
+      "description": "5-7 whole, cleaned & gutted Singhi fish",
+      "Measure": "450gms",
+      "Price": "₹799"
+    },
+    {
+      "Title": "Freshwater/White Prawns (Chingri) Large - Cleaned & Deveined",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/7b932cc7-ceb3-f064-8773-6475a5fc5906/original/1596184894.5788--2020-07-3114_11_34--738.jpeg",
+      "description": "Kolambi, Royyala, Jhinga, Naaran, Seegadi, Eraal",
+      "Measure": "250gms",
+      "Price": "₹499"
+    },
+    {
+      "Title": "Blue Crab (Nandu/Aedi) Medium - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b11c2aa6-1e10-1494-e9d8-9ecc08a2f058/original/Blue-Crab-medium.jpg",
+      "description": "Also called Nandu, Kekda, Peetha, Pitha, Aedi, Yedi",
+      "Measure": "500gms",
+      "Price": "₹799"
+    },
+    {
+      "Title": "Sardine - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a89489d2-fdaf-2e66-8a3e-d9010cb97c03/original/p2_tile_images_6th_folder-02.jpg",
+      "description": "Gutted and scaled silvery skinned, sharp tasting, bony, oily fish with silken texture.",
+      "Measure": "500gm",
+      "Price": "₹299"
+    },
+    {
+      "Title": "Bombay Duck (Bombil) Large - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/0150e703-b4e8-09bf-2436-02e0732d8436/original/Bombay-Duck-large.jpeg",
+      "description": "Light grey, firm textured, cleaned and gutted whole Bombay Duck.",
+      "Measure": "200gms",
+      "Price": "₹189"
+    },
+    {
+      "Title": "Mourola - Whole",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7aa7b4a6-c55e-a469-bf6a-acf99d886115/original/p2_tile_images_4th_folder-26_(1).jpg",
+      "description": "Small freshwater fish, popular in Bengali & Odia cuisine.",
+      "Measure": "200gms",
+      "Price": "₹169"
+    },
+    {
+      "Title": "Tilapia (Jalebi) Large - Fillet",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/21669233-a4f0-bfe0-506f-d9fa2f68bbfd/original/WhatsApp_Image_2022-02-07_at_3.50.52_PM.jpeg",
+      "description": "Mild-tasting, white-fleshed low in fat Tilapia cut into fillets.",
+      "Measure": "250gms",
+      "Price": "₹219"
+    },
+    {
+      "Title": "Bombay Duck (Bombil) Small - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/0eb350d5-af8e-e8fb-75f1-9dca7a18eca1/original/Bombay-Duck-small.jpeg",
+      "description": "Light grey, firm textured, cleaned and gutted whole Bombay Duck.",
+      "Measure": "200gms",
+      "Price": "₹169"
+    },
+    {
+      "Title": "Atlantic Salmon - Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9ac39156-b70b-c19d-8a5c-2bec55ee59b5/original/p2_tile_images-09.jpg",
+      "description": "2-3 steaks of bone-in salmon, perfect for pan-searing",
+      "Measure": "350gms",
+      "Price": "₹1499"
+    },
+    {
+      "Title": "Murrel (Kuchumeen/Korameenu) - Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b75c086a-ab89-32fa-d2c2-4dd247599c2b/original/p2_tile_images_6th_folder-01_(2).jpg",
+      "description": "4-8 bone-in, cleaned steaks of Murrel or Korameenu.",
+      "Measure": "350gms",
+      "Price": "₹699"
+    },
+    {
+      "Title": "Butterfish (Bonke) - Whole Cleaned & Gutted With Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/220038ca-b815-8db1-c2ee-69c96e2ccd3e/original/p2_tile_images_6th_folder-19.jpg",
+      "description": "Cleaned gutted, whole, silvery-white skinned",
+      "Measure": "300gms",
+      "Price": "₹345"
+    },
+    {
+      "Title": "Anchovy (Fesha/Phasa) Medium - Whole, Cleaned",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_5965d990c954c/34/prod_display_image/1634554316.2648--2021-10-1816:21:56--1818",
+      "description": "Head-removed, gutted & cleaned, slim, silvery skinned, bite-sized, bony, flavourful, saltwater fish",
+      "Measure": "250gms",
+      "Price": "₹239"
+    },
+    {
+      "Title": "Pink Perch (Kendai/Madumagala) Medium - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c0de55a4-3d55-8a40-a156-cc3e8e661d3e/original/p2_tile_images_6th_folder-10_(1).jpg",
+      "description": "Also called Sankara, Madumagala, Kili Meen",
+      "Measure": "500gm",
+      "Price": "₹399"
+    },
+    {
+      "Title": "Black Pomfret (Chandi) Medium - Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/72eb0795-d232-11ae-cc4f-e67da32c75e5/original/p2_tile_images-33_(1).jpg",
+      "description": "Paplet, Sadumi, Black Paplet, Katha Avolli, Maachan, Kappu Maanji, Karutha Vavval",
+      "Measure": "300gms",
+      "Price": "₹699"
+    },
+    {
+      "Title": "Flower Shrimp/ Chingri (Small) - Cleaned & Deveined (Trial Pack)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/82a9af80-263d-4812-9a29-809a476e2517/original/flower-shrimp-70-110-c_(1).jpg",
+      "description": "This trial pack has 15-25 pieces of thoroughly cleaned and deveined Flower Shrimp ready for you to toss them straight to the pan!",
+      "Measure": "150gms",
+      "Price": "₹279"
+    },
+    {
+      "Title": "Sea White Prawns (Chingri) Large - Cleaned & Deveined",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_8umkrer7r4w/34/prod_display_image/1636637907.885--2021-11-1119:08:27--1818",
+      "description": "Kolambi, Royyala, Jhinga, Naaran, Seegadi, Eraal",
+      "Measure": "250gms",
+      "Price": "₹495"
+    },
+    {
+      "Title": "Blue Crab Small - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4424021c-a282-470f-8113-849a77f60d29/original/Blue-Crab-Small.jpg",
+      "description": "Get cleaned Blue Crab (Male/Female). Use them for crab curry or soup, or you can batter, fry & serve them up.",
+      "Measure": "500gms",
+      "Price": "₹719"
+    },
+    {
+      "Title": "Premium Mackerel (Bangda) Medium - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/54ea3781-7d18-5ee5-fdd9-1a41b34fdd52/original/p2_tile_images_6th_folder-06_(3).jpg",
+      "description": "Also called Aiyla, Ayila, Ayala, Bangda",
+      "Measure": "550gms",
+      "Price": "₹349"
+    },
+    {
+      "Title": "Seer (Ser Mach) Medium - Curry Cut, No Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/db414ce6-308e-f3f8-092a-9e2468472d41/original/p2_tile_images_6th_folder-12.jpg",
+      "description": "Anjal, Vanjaram, Surmai, Neyi Meen, Ayikura",
+      "Measure": "500gms",
+      "Price": "₹1325"
+    },
+    {
+      "Title": "Squid Rings (Calamari/Kanava)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2a1c18f7-5e89-e22e-e8e8-d90ac4c77047/original/p2_tile_images_6th_folder-35.jpg",
+      "description": "50-60 squid rings, ideal for pan/deep-frying",
+      "Measure": "250gms",
+      "Price": "₹569"
+    },
+    {
+      "Title": "Trevally (Kodavai) - Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/e7d80d13-c21e-4710-75e8-74f5c41ccafe/original/p2_tile_images_7th_folder-14.jpg",
+      "description": "Also called Vatta, Parava, Thenga Parai, Paarai",
+      "Measure": "500gms",
+      "Price": "₹555"
+    },
+    {
+      "Title": "Seer (Ser Mach) - Head & Tail",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/bedfaa81-62d0-7275-5646-85055e9e40dd/original/p2_tile_images_6th_folder-18.jpg",
+      "description": "Anjal, Vanjaram, Surmai, Neyi Meen, Ayikura",
+      "Measure": "6-8 Pieces",
+      "Price": "₹249"
+    },
+    {
+      "Title": "Yellowfin Tuna (Kera) Small - Boneless Cubes",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f542e07a-5efc-e430-8188-9a5abb4415eb/original/p2_tile_images_7th_folder-44.jpg",
+      "description": "Also called Choora, Toora Chepa, Soora, Gedare, Kupa",
+      "Measure": "500gms",
+      "Price": "₹999"
+    },
+    {
+      "Title": "Atlantic Salmon - Fillet",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/13e9d41c-0f6b-3b30-4242-e061e372600f/original/p2_tile_images-11.jpg",
+      "description": "Salmon from the North Atlantic Ocean carved into silky textured boneless slab for enhanced delight.",
+      "Measure": "250gms",
+      "Price": "₹1739"
+    },
+    {
+      "Title": "Wild caught Murrel-Curry cut",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_2j2k42fc6yx/1/prod_display_image/1637596788.27--2021-11-2221:29:48--1818",
+      "description": "10-13 bone-in, uniform cuts of Murrel or Korameenu.",
+      "Measure": "500gms",
+      "Price": "₹999"
+    },
+    {
+      "Title": "Seawater Prawns 70Count/Kg (Chemmeen) - Cleaned & Deveined, No Tail",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_4jwjw1y9tfb/34/prod_display_image/1610189424.3719--2021-01-0916:20:24--738",
+      "description": "Perfect for pickles & gravies.",
+      "Measure": "250gms",
+      "Price": "₹379"
+    },
+    {
+      "Title": "Sardine Extra Small - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/5f4a84be-e3ca-b5ae-2791-285cb464b456/original/sardine-extra-small.jpg",
+      "description": "Also called Mathi, Maathi, Tarli, Peduva, Khoira",
+      "Measure": "500gms",
+      "Price": "₹269"
+    },
+    {
+      "Title": "Freshwater/White Prawns (Chingri) Medium - Cleaned & Deveined, With Tail (Large Pack)",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b1e7784e-404c-46b3-0eec-1da83d600ae7/original/Freshwater-Prawns-40C-60C---Cleaned-&-Deveined,-With-Tail---Large-Pack-.jpg",
+      "description": "Kolambi, Royyala, Jhinga, Naaran, Seegadi, Eraal",
+      "Measure": "500gms",
+      "Price": "₹709"
+    },
+    {
+      "Title": "Seer (Ser Mach) - Thin Slices",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b43576d0-5d05-c020-e545-2afbbe2de34e/original/1621148996.jpg",
+      "description": "Anjal, Vanjaram, Surmai, Neyi Meen, Ayikura",
+      "Measure": "300gms",
+      "Price": "₹749"
+    },
+    {
+      "Title": "Chatpata Fish Fry Masala",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/1ab4c0f5-2e6b-86c1-078f-41837b6ede23/original/masala_tile-38.jpg",
+      "description": "The perfect blend of spice and tang.",
+      "Measure": "50gms Pieces",
+      "Price": "₹55"
+    },
+    {
+      "Title": "Parshe Large - Whole & Cleaned, No Tail",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/773cecb7-8d62-e13c-f34e-ae266865456b/original/parshe-large.jpg",
+      "description": "Cleaned, gutted, prepped freshwater Parshe for the ultimate rustic Bengali comfort.",
+      "Measure": "500gms",
+      "Price": "₹575"
+    },
+    {
+      "Title": "White Sardine/Silver Fish (Veloori) - Whole Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/eef114d5-72ea-f2b5-0e1d-3d41baae119a/original/p2_tile_images_7th_folder-38.jpg",
+      "description": "45-60 pieces, whole, cleaned.",
+      "Measure": "250gms",
+      "Price": "₹339"
+    },
+    {
+      "Title": "Roopchand (Chanduva) Small - Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9e5c672a-1ed4-3727-cb25-4f9e616106cc/original/Roopchand-Small-Steaks.jpg",
+      "description": "Also called Rupchanda, Paaku, Chanduva",
+      "Measure": "500gms",
+      "Price": "₹239"
+    },
+    {
+      "Title": "Seer (Ser Mach) Medium - Boneless Cubes",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7bc75cc8-0bcf-0038-65c2-c0724557803f/original/p1_tile_images-22.jpg",
+      "description": "Anjal, Vanjaram, Surmai, Neyi Meen, Ayikura",
+      "Measure": "300gms",
+      "Price": "₹1035"
+    },
+    {
+      "Title": "Black Pomfret (Paplet/Avoli/Chandi/Manji) Medium - Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/d4626bb6-3a99-213e-c108-cbdfaded7735/original/1603788616.1876--2020-10-2714_20_16--738.jpeg",
+      "description": "4-6 steaks of mild-flavoured, flaky seawater fish",
+      "Measure": "500gms",
+      "Price": "₹949"
+    },
+    {
+      "Title": "Mahi Mahi (Dorado/Parla) - Boneless Cubes",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/de0c9405-3251-03a3-6390-c3c105a98669/original/1596176297.699--2020-07-3111_48_17--738.jpeg",
+      "description": "Also called Pulli Motha, Parla, Dorado",
+      "Measure": "500gms",
+      "Price": "₹479"
+    },
+    {
+      "Title": "Premium Mackerel (Bangda) Small - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/8b8f4366-b580-38e1-06f6-91eddce43f4c/original/p2_tile_images_6th_folder-01_(4).jpg",
+      "description": "Also called Aiyla, Ayila, Ayala, Bangda",
+      "Measure": "500gms",
+      "Price": "₹315"
+    },
+    {
+      "Title": "King Fish (Kadal/Anjal) Medium - Curry Cut",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_1qzjxbzbcvj/1/prod_display_image/1611926684.0994--2021-01-2918:54:44--738",
+      "description": "Also called Kadal Viral, Motha, Cobia",
+      "Measure": "500gms",
+      "Price": "₹749"
+    },
+    {
+      "Title": "King Fish (Kadal/Anjal) Medium - Boneless Cubes",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/1dfb36ff-582b-7070-f5c1-7180de874d30/original/p2_tile_images_3rd_folder-08.jpg",
+      "description": "Also called Kadal Viral, Motha, Cobia",
+      "Measure": "300gms",
+      "Price": "₹699"
+    },
+    {
+      "Title": "Barracuda (Sheela/Thinda) - Small Steaks",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3393e965-9155-e277-92c4-e4af876331f4/original/p2_tile_images-16.jpg",
+      "description": "Also called Sheela, Jellow, Jaban Tal, Kanaki, Badvi",
+      "Measure": "350gms",
+      "Price": "₹349"
+    },
+    {
+      "Title": "Red Snapper/Sankara/Chempalli Fillet",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/25e50370-2c6b-fcef-35bc-62c62353acef/original/p2_tile_images_5th_folder-29.jpg",
+      "description": "Bite into the firm texture and sweet nutty flavour of Red Snapper fillets.",
+      "Measure": "250gms",
+      "Price": "₹799"
+    },
+    {
+      "Title": "Bata Medium Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ef0a106c-d12c-89c5-84fe-644fa19837f1/original/p2_tile_images-19.jpg",
+      "description": "Whole, cleaned, gutted, this Eastern favourite is now just a click away!",
+      "Measure": "350gms",
+      "Price": "₹449"
+    },
+    {
+      "Title": "Pearl Spot Small - Whole, Cleaned With Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/44dd7e59-e35e-4abc-f186-3c1a87b9e5c7/original/p2_tile_images_5th_folder.jpg",
+      "description": "Mild-flavoured freshwater fish whole and gutted, with head",
+      "Measure": "300gms",
+      "Price": "₹225"
+    },
+    {
+      "Title": "Hilsa (Pulasa/Palva/Palla) Small - Bengali Cut, With Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/0bb0edc6-202e-9e54-9347-067054ac8663/original/1604407288.1459--2020-11-0318_11_28--738.jpeg",
+      "description": "Also called Ilish, Pulasa, Ulla meen, Mallas, Pala",
+      "Measure": "700gm",
+      "Price": "₹2899"
+    },
+    {
+      "Title": "Pearl Spot (Karimeen/Pattai) Medium Whole, Cleaned With Head",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4cd38ee9-44d9-3413-5954-a3c2436b1f65/original/p2_tile_images_6th_folder-39.jpg",
+      "description": "Also called Karimeen, Karimeenu, Patai",
+      "Measure": "400gms",
+      "Price": "₹299"
+    },
+    {
+      "Title": "Singhi Medium - Whole, Cleaned",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_1y9kvaxukkn/34/prod_display_image/1638180683.777--2021-11-2915:41:23--1818",
+      "description": "Freshwater fish, popular in Assamese cuisine.",
+      "Measure": "450gms",
+      "Price": "₹999"
+    },
+    {
+      "Title": "Bombay Duck (Bombil) - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/9613f01c-0a06-31b0-6ef9-998a5b923527/original/1596254344.2726--2020-08-0109_29_04--738.jpeg",
+      "description": "Light grey, firm textured, cleaned and gutted whole Bombay Duck.",
+      "Measure": "250gms",
+      "Price": "₹139"
+    },
+    {
+      "Title": "Sea White Prawns/ Chingri (Small) - Cleaned & Deveined (Trial Pack)",
+      "image": "https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_nsckuccfuji/34/prod_display_image/1633863323.1243--2021-10-1016:25:23--1818",
+      "description": "Delicate, fresh-flavoured meat",
+      "Measure": "150gms",
+      "Price": "₹279"
+    },
+    {
+      "Title": "Blue Crab Extra Small - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/6123f324-96e4-bb80-55f2-e70b82e3d1a6/original/Blue-Crab-Extra-small-.jpg",
+      "description": "Get cleaned Blue Crab (Male/Female). Use them for crab curry or soup, or you can batter, fry & serve them up.",
+      "Measure": "500gms",
+      "Price": "₹629"
+    },
+    {
+      "Title": "Anchovy (Fesha/Phasa) Large - Whole, Cleaned",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a2d1f021-35f5-2ff5-7ccd-b347b38e6ad5/original/AnchovyLarge.jpg",
+      "description": "Head-removed, gutted & cleaned, slim, silvery skinned, bite-sized, bony, flavourful, saltwater fish",
+      "Measure": "250gms",
+      "Price": "₹259"
+    },
+    {
+      "Title": "Mackerel (Bangda) Small - Whole Cleaned, Partially Gutted",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/e8fcda41-ac90-2abc-99a0-892e93188ecc/original/p2_tile_images_6th_folder-01_(3).jpg",
+      "description": "5-6 pcs of Mackerel Small Partially Gutted",
+      "Measure": "550gms",
+      "Price": "₹335"
+    },
+    {
+      "Title": "Mackerel (Bangda) Medium - Whole Cleaned, Partially Gutted",
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/854383d6-9a73-0083-6df1-fa5ba1d35af9/original/p2_tile_images_6th_folder-06_(2).jpg",
+      "description": "3-4 pcs of Mackerel Medium Partially Gutted",
+      "Measure": "550gms",
+      "Price": "₹335"
+    }
   ]
 }
