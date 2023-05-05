@@ -1286,7 +1286,31 @@
   ],
   "Cart":[
    
+  ],
+  "user":[
+    {
+      "id":1,
+      "name":"shaharyaar",
+      "email":"shaharyaaransari786@gmail.com",
+      "password":"shah123"
+      
+    },
+    {
+      "id":2,
+      "name":"afroz",
+      "email":"afroz786@gmail.com",
+      "password":"shah123"
+      
+    },
+    {
+      "id":3,
+      "name":"irshad",
+      "email":"irshad786@gmail.com",
+      "password":"shah123"
+      
+    }
   ]
+
   
   
 }
