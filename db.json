@@ -1310,9 +1310,9 @@
       
     }
   ],
- "Math":[
-{
-  "English":[
+ 
+
+  "EnglishMath":[
     {
       "id":1,
       "name": "Rational Numbers",
@@ -1384,7 +1384,7 @@
       
     }
   ],
-  "Hindi":[
+  "HindiMath":[
     {
       "id":1,
       "name": "तर्कसंगत संख्याओं",
@@ -1456,8 +1456,8 @@
       
     }
   ]
-}
+
   
-  ]
+  
   
 }
