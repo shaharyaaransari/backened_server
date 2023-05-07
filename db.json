@@ -1309,8 +1309,155 @@
       "password":"shah123"
       
     }
-  ]
+  ],
+ "Math":[
+{
+  "English":[
+    {
+      "id":1,
+      "name": "Rational Numbers",
+      "value":30
+    },
+    {
+      "id":2, 
+      "name": "Linear Equations in One Variable",
+      "value":45
+      
+    },
+    {
+      "id":3,
+      "name": "Understanding Quadrilaterals",
+      "value":55
+      
+    },
+    {
+      "id":4,
+      "name": "Data Handling",
+      "value":65
+      
+    },
+    {
+      "id":5,
+      "name": "Square and Square Roots",
+      "value":44
+      
+    },
+    {
+      "id":6,
+      "name": "Cube and Cube Roots",
+      "value":43
+    },
+    {
+      "id":7,
+      "name": "Comparing Quantities",
+      "value":54
 
+      
+    },
+    {
+      "id":8,
+      "name": "Algebraic Expressions and Identities",
+      "value":67
+      
+    },
+    {
+      "id":9,
+      "name": "Mensuration",
+      "value":50
+    },
+    {
+      "id":10,
+      "name": "Exponents and Power",
+      "value":69
+      
+    },
+    {
+      "id":11,
+      "name": "Direct and Inverse Proportions",
+      "value":35
+      
+    },
+    {
+      "id":12,
+      "name": "Factorisation",
+      "value":78
+      
+    }
+  ],
+  "Hindi":[
+    {
+      "id":1,
+      "name": "तर्कसंगत संख्याओं",
+      "value":30
+    },
+    {
+      "id":2, 
+      "name": "एक चर में रैखिक समीकरण",
+      "value":45
+      
+    },
+    {
+      "id":3,
+      "name": "चतुर्भुज को समझना",
+      "value":55
+      
+    },
+    {
+      "id":4,
+      "name": " डेटा संधारण",
+      "value":65
+      
+    },
+    {
+      "id":5,
+      "name": " वर्ग और वर्गमूल",
+      "value":44
+      
+    },
+    {
+      "id":6,
+      "name": "घन और घन जड़ें",
+      "value":43
+    },
+    {
+      "id":7,
+      "name": "तुलना मात्राएँ",
+      "value":54
+
+      
+    },
+    {
+      "id":8,
+      "name": "बीजगणितीय अभिव्यक्तियाँ और पहचान",
+      "value":67
+      
+    },
+    {
+      "id":9,
+      "name": "क्षेत्रमिति",
+      "value":50
+    },
+    {
+      "id":10,
+      "name": "व्यय और शक्ति",
+      "value":69
+      
+    },
+    {
+      "id":11,
+      "name": "गुणनखण्ड",
+      "value":35
+      
+    },
+    {
+      "id":12,
+      "name": "प्रत्यक्ष और व्युत्क्रम अनुपात",
+      "value":78
+      
+    }
+  ]
+}
   
+  ]
   
 }
