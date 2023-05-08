@@ -1455,6 +1455,115 @@
       "value":78
       
     }
+  ],
+  "Sceince":[
+    {
+      "id":1,
+      "name": "Crop Production and Management",
+      "value":30
+    },
+    {
+      "id":2, 
+      "name": "Microorganisms: Friend and Foe",
+      "value":45
+      
+    },
+    {
+      "id":3,
+      "name": "Synthetic Fibres and Plastics",
+      "value":55
+      
+    },
+    {
+      "id":4,
+      "name": " Materials: Metals and Non-Metals",
+      "value":65
+      
+    },
+    {
+      "id":5,
+      "name": " Coal and Petroleum",
+      "value":44
+      
+    },
+    {
+      "id":6,
+      "name": "Combustion and Flame",
+      "value":43
+    },
+    {
+      "id":7,
+      "name": "Conservation of Plants and Animals",
+      "value":54
+
+      
+    },
+    {
+      "id":8,
+      "name": "Cell Structure and Functions",
+      "value":67
+      
+    },
+    {
+      "id":9,
+      "name": "Reproduction in Animals",
+      "value":50
+    },
+    {
+      "id":10,
+      "name": "Reaching the Age of Adolescence",
+      "value":69
+      
+    },
+    {
+      "id":11,
+      "name": "Force and Pressure",
+      "value":35
+      
+    },
+    {
+      "id":12,
+      "name": "Friction",
+      "value":78
+      
+    },
+    {
+      "id":13,
+      "name": "Sound",
+      "value":90
+      
+    },
+    {
+      "id":14,
+      "name": "Some Natural Phenomena",
+      "value":67
+      
+    },
+    {
+      "id":15,
+      "name": "Light",
+      "value":47
+      
+    },
+    {
+      "id":16,
+      "name": "Stars and the Solar System",
+      "value":30
+      
+    },
+    {
+      "id":17,
+      "name": "Pollution of Air and Water",
+      "value":84
+      
+    },
+    {
+      "id":18,
+      "name": "Chemical Effects of Electric Current",
+      "value":58
+      
+    }
+
   ]
 
   
