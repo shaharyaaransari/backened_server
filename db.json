@@ -1564,6 +1564,42 @@
       
     }
 
+  ],
+  "Geography":[
+    {
+      "id":1,
+      "name": "India - Size and Location",
+      "value":30
+    },
+    {
+      "id":2, 
+      "name": "Physical Features of India",
+      "value":45
+      
+    },
+    {
+      "id":3,
+      "name": "Drainage",
+      "value":55
+      
+    },
+    {
+      "id":4,
+      "name": "Climate",
+      "value":65
+      
+    },
+    {
+      "id":5,
+      "name": "Natural Vegetation and Wild Life",
+      "value":44
+      
+    },
+    {
+      "id":6,
+      "name": "Population",
+      "value":43
+    }
   ]
 
   
