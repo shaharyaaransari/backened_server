@@ -1600,6 +1600,56 @@
       "name": "Population",
       "value":43
     }
+  ],
+  "History":[
+    {
+      "id":1,
+      "name": "The French Revolution",
+      "value":30
+    },
+    {
+      "id":2, 
+      "name": "Socialism in Europe and the Russian Revolution",
+      "value":45
+      
+    },
+    {
+      "id":3,
+      "name": " Nazism and the Rise of Hitler",
+      "value":55
+      
+    },
+    {
+      "id":4,
+      "name": "Forest Society and Colonialism",
+      "value":65
+      
+    },
+    {
+      "id":5,
+      "name": "Pastoralists in the Modern World",
+      "value":44
+      
+    },
+    {
+      "id":6,
+      "name": "Peasants and Farmers",
+      "value":43
+    },
+    {
+      "id":7,
+      "name": " History and Sports: The Story of Cricket",
+      "value":43
+    },
+    {
+      "id":8,
+      "name": "Clothing a Social History",
+      "value":43
+    }
+
+
+
+
   ]
 
   
