@@ -1291,24 +1291,102 @@
     {
       "id":1,
       "name":"shaharyaar",
+      "avatar":"https://pps.whatsapp.net/v/t61.24694-24/343323432_1157849441551262_9213079663828172293_n.jpg?ccb=11-4&oh=01_AdSC97zJGDDWuUq_22Pb9G10kTL8fcIqYGQSizvRVWb62w&oe=6466EC11",
       "email":"shaharyaaransari786@gmail.com",
-      "password":"shah123"
+      "password":"shah123",
+      "point":"570 XP",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrPosYpffZF9slLdMTaDIpU05VB40ugfp8m_AFUBVKGg&usqp=CAU&ec=48600112"
       
     },
     {
       "id":2,
-      "name":"afroz",
-      "email":"afroz786@gmail.com",
-      "password":"shah123"
+      "name":"Gaiyas",
+      "avatar":"https://pps.whatsapp.net/v/t61.24694-24/317020462_250444994215592_4556152022477610973_n.jpg?ccb=11-4&oh=01_AdQmpKMyoDaBnYj4iJ3DZW7fja6rZgPRrSequaexdnrwtA&oe=6466CDE6",
+      "email":"Gaiyas786@gmail.com",
+      "password":"shah123",
+      "point":"530 XP",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymGn79hInMneKsAlh-hxb-QekKuT_2b0WVTaAEW067A&usqp=CAU&ec=48600112"
       
     },
     {
       "id":3,
       "name":"irshad",
+      "avatar":"https://pps.whatsapp.net/v/t61.24694-24/319926370_735860418048477_4476649687087779013_n.jpg?ccb=11-4&oh=01_AdQXenSqqo_ohLYzI-eMWRJcQA3cwDKhmvh8q8gI3m8BFg&oe=6466FF45",
       "email":"irshad786@gmail.com",
-      "password":"shah123"
+      "password":"shah123",
+      "point":"520 XP",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2l1Fsc2MMsrWNXZL51yW0qO2YVIQHMHoAUYstyubbQ&usqp=CAU&ec=48600112"
+      
+    },
+    {
+      "id":4,
+      "name":"shahid",
+      "avatar":"https://pps.whatsapp.net/v/t61.24694-24/85843632_212318206490467_7637621203361673107_n.jpg?ccb=11-4&oh=01_AdQod_2emSBL_t9fQ9J_ZrW-rUFHkRwv6QUROTVueVbDmw&oe=6465FF64",
+      "email":"shahid786@gmail.com",
+      "password":"shah123",
+      "point":"500 XP",
+      "img":4
+      
+    },
+    {
+      "id":5,
+      "name":"Saddique",
+      "avatar":"https://pps.whatsapp.net/v/t61.24694-24/56862644_285900622322716_9133581394730024960_n.jpg?ccb=11-4&oh=01_AdTGSgyq_JR045-kvF2bgSY95JhfW7O_Ght-snOhw90Jvw&oe=6466EE77",
+      "email":"samir786@gmail.com",
+      "password":"shah123",
+      "point":"490 XP",
+      "img":5
+      
+    },
+    {
+      "id":6,
+      "name":"javed",
+      "avatar":"https://pps.whatsapp.net/v/t61.24694-24/324806084_749120783455650_2010360598997995547_n.jpg?ccb=11-4&oh=01_AdSk87WXoM6z9qahRT5Qxg2zC-d20qwg51lrcFEB6ucS0A&oe=6466E399",
+      "email":"javed786@gmail.com",
+      "password":"shah123",
+      "point":"480 XP",
+      "img":6
+      
+    },
+    {
+      "id":7,
+      "name":"Ashraf",
+      "avatar":"https://pps.whatsapp.net/v/t61.24694-24/342230124_1262501987980413_1048086733735572001_n.jpg?ccb=11-4&oh=01_AdSxZ8e9GrLEsUEseFq780g-6J8cmszlqWwqLFBAI11TFA&oe=6466D8C9",
+      "email":"Ashraf786@gmail.com",
+      "password":"shah123",
+      "point":"470 XP",
+      "img":7
+      
+    },
+    {
+      "id":8,
+      "name":"Firdous",
+      "avatar":"https://pps.whatsapp.net/v/t61.24694-24/342522151_785282186503866_4798085519325817507_n.jpg?ccb=11-4&oh=01_AdTwLtYlNPut4Hyq8G-v9NDB1gMuHxpMMo4PcwRQqF0TZw&oe=6466E500",
+      "email":"Firdous786@gmail.com",
+      "password":"shah123",
+      "point":"330 XP",
+      "img":8
+    },
+    {
+      "id":9,
+      "name":"Aftab",
+      "avatar":"https://pps.whatsapp.net/v/t61.24694-24/342748695_801181098353122_7571796044635532986_n.jpg?ccb=11-4&oh=01_AdTvISr6EvnsNpjviQg9ebiqwtWUYpFfL2xY3efU1yrgZQ&oe=6466FA0C",
+      "email":"Aftab786@gmail.com",
+      "password":"shah123",
+      "point":"270 XP",
+      "img":9
+      
+    },{
+      "id":10,
+      "name":"Arbaz",
+      "avatar":"https://pps.whatsapp.net/v/t61.24694-24/263939046_4571586462962767_6580661950085912725_n.jpg?ccb=11-4&oh=01_AdROKzQ2Jn9vY99Xy9x2I93XfojK-vMIl0knjWha9FlucA&oe=6466D02F",
+      "email":"Arbaz786@gmail.com",
+      "password":"shah123",
+      "point":"269 XP",
+      "img":10
       
     }
+
   ],
  
 
