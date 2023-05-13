@@ -1730,24 +1730,7 @@
 
   ],
   "subject":[
-    {
-      "id":1,
-      "image": "https://www.learnfy.co/assets/images/features/icon/1.png",
-      "title": "Connect with Experts",
-      "expert": "769 Experts"
-    },
-    {
-      "id":2,
-      "image": "https://www.learnfy.co/assets/images/features/icon/2.png",
-      "title": "Search Question",
-      "expert": "1,045 Experts"
-    },
-    {
-      "id":3,
-      "image": "https://www.learnfy.co/assets/images/features/icon/3.png",
-      "title": "Explore Your Solution",
-      "expert": "362 Experts"
-    },
+   
     {
       "id":4,
       "image": "https://www.learnfy.co/assets/images/categories/icons/1.png",
