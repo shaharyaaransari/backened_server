@@ -1728,6 +1728,68 @@
 
 
 
+  ],
+  "subject":[
+    {
+      "image": "https://www.learnfy.co/assets/images/features/icon/1.png",
+      "title": "Connect with Experts",
+      "expert": "769 Experts"
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/features/icon/2.png",
+      "title": "Search Question",
+      "expert": "1,045 Experts"
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/features/icon/3.png",
+      "title": "Explore Your Solution",
+      "expert": "362 Experts"
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/categories/icons/1.png",
+      "title": "Maths",
+      "expert": "378 Experts"
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/categories/icons/2.png",
+      "title": "English",
+      "expert": "951 Experts"
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/categories/icons/3.png",
+      "title": "Accounting",
+      "expert": "508 Experts"
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/categories/icons/4.png",
+      "title": "Physics",
+      "expert": "629 Experts"
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/categories/icons/5.png",
+      "title": "Programming",
+      "expert": "262 Experts"
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/categories/icons/6.png",
+      "title": "Economics",
+      "expert": "1,132 Experts"
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/categories/icons/7.png",
+      "title": "Computer Science",
+      "expert": null
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/categories/icons/8.png",
+      "title": "Finance",
+      "expert": null
+    },
+    {
+      "image": "https://www.learnfy.co/assets/images/categories/icons/9.png",
+      "title": "Business Studies",
+      "expert": null
+    }
   ]
 
   
